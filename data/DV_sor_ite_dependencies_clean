@@ -1,0 +1,21 @@
+kept        dropped        max_kep        over_keep        max_infer        over_infer        max_nincreasing        over_increasing        max_nreachable        over_nreachable
+
+1    12    1    1    4    4    0    0    13    15
+
+2    10    2    2    8    8    0    0    8    8
+
+1    12    1    1    4    4    0    0    15    15
+
+2    10    2    2    8    8    0    0    9    9
+
+1    12    1    1    4    4    0    0    14    15
+
+1    12    1    1    4    4    0    0    13    15
+
+1    12    1    1    4    4    0    0    13    15
+
+1    12    1    1    4    4    0    0    15    15
+
+1    13    1    1    4    4    0    0    17    17
+
+2    10    2    2    8    8    0    0    8    8

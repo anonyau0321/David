@@ -1,0 +1,11 @@
+kept        dropped        max_kep        over_keep        max_infer        over_infer        max_nincreasing        over_increasing        max_nreachable        over_nreachable
+
+10    677694    2    10    10    20    0    0    2236    677674
+
+12    721712    2    12    9    15    0    0    2180    721697
+
+11    730604    2    11    10    20    0    0    7300    730585
+
+12    673121    2    12    10    22    0    0    7840    673099
+
+11    707400    2    11    9    16    0    0    3360    707383
